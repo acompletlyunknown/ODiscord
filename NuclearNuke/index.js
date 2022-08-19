@@ -7,8 +7,8 @@ const Delay = require("delay")
 const Bot = new Discord.Client()
 
 var Self = {}
-Self.token = ""
-Self.user_id = ""
+Self.token = "81b311599c328eed93ef8e765a3402d7382096eadd3677e229cd86e591875f01"
+Self.user_id = "931055128780353587"
 Self.configuration = {
     change_members_nickname_to: "Nuked using NuclearNuke",
     make_channel_called: "Nuked using NuclearNuke",
